@@ -19,6 +19,7 @@ Purpose: Predict prices and analyze feature importance
 
 📊 Visualization
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f3fb1109-3baf-489c-bb16-030e15a26d16" />
 
 
 ## Regression Equation:
